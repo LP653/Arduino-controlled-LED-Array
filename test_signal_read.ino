@@ -2,7 +2,10 @@
 ----------------------------------------------------------------------------------
 TODO:
 
-Investigate physical switches for modes, screensavers (explosion animation, stars), and startup screens
+Change the displayImage function to accept a uint64_t for quicker computation
+Physical switches for mode selection
+Screensavers (explosion animation, stars)
+Startup screens
 ----------------------------------------------------------------------------------
 */
 
