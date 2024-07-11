@@ -299,7 +299,7 @@ void loop() {
 
 
 
-
+// IN PROGRESS
 void stars() {
 
   // TODO: make the coord system on layer less than the led array
