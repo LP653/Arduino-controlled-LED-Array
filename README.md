@@ -55,11 +55,13 @@ I used the concepts introduced in the sources to make animations for the LED arr
 
 |8x8 LED Array|
 |------|
-|![led array pinout](images/led_array_pinout.png)I had the *wonderful* opportunity to forget where I ordered my LED Arrays from, so I am unclear on how to get an official datasheet. Through trial and error, I was able to find what pins correlate to what rows/columns and the diodes' polarities.|
+|I had the *wonderful* opportunity to forget where I ordered my LED Arrays from, so I am unclear on how to get an official datasheet. Through trial and error, I was able to find what pins correlate to what rows/columns and the diodes' polarities.
+![led array pinout](images/led_array_pinout.png)|
 
 |74HC595|
 |-------|
-|[74HC595 datasheet](https://www.ti.com/lit/ds/symlink/sn74hc595.pdf)![595 Shift Register Pinout](images/595pinout.png)|
+|[74HC595 datasheet](https://www.ti.com/lit/ds/symlink/sn74hc595.pdf)
+![595 Shift Register Pinout](images/595pinout.png)|
 
 ## Wiring Diagram
 
